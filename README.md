@@ -10,5 +10,12 @@ This fork of st is largely based off of [Luke Smith's](https://github.com/LukeSm
 - `libxft-bgra`: Required for unicode and emoji support
 - `dmenu`: (optional) A very useful menu interface
 
+## How to install/build
+```
+git clone https://github.com/ncvfg234560/st.git
+cd st
+sudo make clean install
+```
+
 ## More documentation
 For more documentation please visit [Luke Smith's](https://github.com/LukeSmithxyz/st) st GitHub fork
